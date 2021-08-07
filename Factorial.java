@@ -13,6 +13,8 @@ public static void main(String[] args) {
     }
 
     System.out.println("Factorial of "+factNum + " is " + factorial);
+    input.close();
 }
+
 }
 
