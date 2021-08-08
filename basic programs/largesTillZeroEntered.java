@@ -1,3 +1,5 @@
+//TAKE AN INTEGER AS INPUT AND KEEP DOING TILL USER ENTERS 0. FIND THE LARGEST NUMBER ENTERED IN THIS LIST
+
 import java.util.Scanner;
 
 public class largesTillZeroEntered {
